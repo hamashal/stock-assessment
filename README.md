@@ -9,6 +9,6 @@
 
 ### Frontend
 1. Open a separate terminal and navigate to the `frontend` folder.
-2. Run `npm install` to install packages.
+2. Run `npm install --legacy-peer-deps` to install packages.
 3. Run `npm run dev` to start the React app.
 4. Click the local link provided in the terminal to view the app in your browser.
